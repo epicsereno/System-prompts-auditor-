@@ -1,0 +1,6 @@
+{
+  "name": "System Prompt Auditor",
+  "description": "An AI-powered system prompt auditor that checks agent prompts for ambiguity, injection vulnerabilities, conflicts, missing safeguards, and tool permission scope flaws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
